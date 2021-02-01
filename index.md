@@ -1,13 +1,13 @@
-## Willkommen auf der Workshop Website
+# Willkommen auf der Workshop Website
 
 Hier findest du die Materialien für den Workshop _How to Build an Artificial Coder - Machine Learning für die Automatisierte Inhaltsanalyse"_. 
 
 ![](workshop_artificial-Coder_web-Header-1024x504.png)
-### Download Workshop-Ordner 
+## Download Workshop-Ordner 
 
 Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von GitHub herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen. Oder du kannst dir auf [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) das Material ansehen. 
 
-### Getting Started - Material zur Vorbereitung
+## Getting Started - Material zur Vorbereitung
 
 Du brauchst für den Workshop keine Vorkenntnisse. Aber du benötigst Python mit allem drum und dran:
 
@@ -31,10 +31,10 @@ conda install nltk
 
 
 
-### Workshop-Agenda
+## Workshop-Agenda
 
-### Weiterführende Tutorials
+## Weiterführende Tutorials
 
-### Noch mehr Methoden-Workshops!
+## Noch mehr Methoden-Workshops!
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
