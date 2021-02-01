@@ -5,11 +5,16 @@ Hier findest du die Materialien für den Workshop _How to Build an Artificial Co
 ![](workshop_artificial-Coder_web-Header-1024x504.png)
 ### Download Workshop-Ordner 
 
-Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als .zip-Datei von GitHub herunterzuladen. Im Workshop-Ordner findest du alle Skripte, Folien und Datensätze, die wir benutzen. Oder du kannst dir auf [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) das Material ansehen. 
+Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als .zip-Datei von GitHub herunterzuladen. Im Workshop-Ordner findest du alle Skripte, Folien und Datensätze, die wir im Workshop benutzen. Oder du kannst dir auf [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) das Material ansehen. 
 
 ### Getting Started - Material zur Vorbereitung
 
-Du brauchst für den Workshop keine Vorkenntnisse. 
+Du brauchst für den Workshop keine Vorkenntnisse. Aber du benötigst Python und alles drum und dran. 
+
+1. Klicke auf den Download-Button [hier](https://www.anaconda.com/products/individual) und lade dir die Software Anaconda (für Windows ) herunter. Anaconda benutzen wir, damit wir unter Windows oder MacOX einfacher programmieren können.
+2. Follow the installation instruction in [this video tutorial](https://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial") until min 05:07.
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5mDYijMfSzs/0.jpg)](http://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial")
 
 
 ### Workshop-Agenda
