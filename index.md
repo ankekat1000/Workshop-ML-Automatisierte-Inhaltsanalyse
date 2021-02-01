@@ -11,11 +11,11 @@ Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsa
 
 Du brauchst für den Workshop keine Vorkenntnisse. Aber du benötigst Python mit allem drum und dran:
 
-1. **Python mit Anaconda installieren**: Gehe auf die [Homepage von Anaconda](https://www.anaconda.com/products/individual) und lade dir die Software für dein Betriebssystem herunter. Anaconda benutzen wir, damit wir unter Windows und MacOX einfacher programmieren können. Mit Anaconda erhälts du Python, viele vorinstallierte Python-Packages und Programmiersoftware, wie z.B. Jupyter Notebook. In diesem [Tutorial](https://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial") kannst du dir ansehen, wie du Anaconda unter Windows installierst (bis min 05:07).
+- **Python mit Anaconda installieren**: Gehe auf die [Homepage von Anaconda](https://www.anaconda.com/products/individual) und lade dir die Software für dein Betriebssystem herunter. Anaconda benutzen wir, damit wir unter Windows und MacOX einfacher programmieren können. Mit Anaconda erhälts du Python, viele vorinstallierte Python-Packages und Programmiersoftware, wie z.B. Jupyter Notebook. In diesem [Tutorial](https://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial") kannst du dir ansehen, wie du Anaconda unter Windows installierst (bis min 05:07).
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/5mDYijMfSzs/0.jpg)](http://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial")
 
-2. **Python-Packages installieren**: Folge dem Tutorial weiter (min 05:08 - 06:41) um zu lernen, wie man Python-Packages installiert. (Dies ist nur eine von mehreren Möglichkeiten.) Versuche die folgenden Packages zu installieren, die wir für die Automatisierte Inhaltsanaylse mit Machine Learning benötigen:
+- **Python-Packages installieren**: Folge dem Tutorial weiter (min 05:08 - 06:41) um zu lernen, wie man Python-Packages installiert. (Dies ist nur eine von mehreren Möglichkeiten.) Versuche die folgenden Packages zu installieren, die wir für die Automatisierte Inhaltsanaylse mit Machine Learning benötigen:
 
 ```
 conda install pandas
@@ -25,7 +25,7 @@ conda install scikit-learn
 conda install nltk
 ```
 
-3. **Lerne die Programmierumgebung kennen**: Die Software **Jupyter Notebook** macht mit ihrem intuitiven Design Nicht-Programmiererinnen und -Programmierern den Einstieg leicht! Jupyter Notebook ist mit Anaconda bereits auf deinem Computer gelandet. Lerne mit Hilfe dieses kurzen und sympathischen [Tutorials](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial") die Juypter-Notebook-Programmierumgebung kennen.
+- **Lerne die Programmierumgebung kennen**: Die Software **Jupyter Notebook** macht mit ihrem intuitiven Design Nicht-Programmiererinnen und -Programmierern den Einstieg leicht! Jupyter Notebook ist mit Anaconda bereits auf deinem Computer gelandet. Lerne mit Hilfe dieses kurzen und sympathischen [Tutorials](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial") die Juypter-Notebook-Programmierumgebung kennen.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NIGcXjhXNug/0.jpg)](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial")
 
