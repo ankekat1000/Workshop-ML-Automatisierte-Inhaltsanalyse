@@ -23,41 +23,17 @@ conda install re
 conda install numpy
 conda install scikit-learn
 conda install nltk
-
 ```
+
+3. **Lerne die Programmierumgebung kennen**: Die Software **Jupyter Notebook** macht mit ihrem intuitiven Design Nicht-Programmiererinnen und -Programmierern den Einstieg leicht! Jupyter Notebook ist mit Anaconda bereits auf deinem Computer gelandet. Mache dich mit Hilfe dieses [Tutorials](https://www.youtube.com/watch?v=HW29067qVWk "Watch this cute tutorial") schon mal mit der Juypter-Notebook-Programmierumgebung vertraut.
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/HW29067qVWk/0.jpg)](https://www.youtube.com/watch?v=HW29067qVWk "Watch this cute tutorial")
+
 
 
 ### Workshop-Agenda
 
 ### Weiterführende Tutorials
-
-1. deep
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ankekat1000/Workshop-ML-AutomatisierteInhaltsanalyse/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Noch mehr Methoden-Workshops!
 
