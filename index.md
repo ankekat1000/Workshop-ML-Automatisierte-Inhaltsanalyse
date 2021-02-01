@@ -1,5 +1,3 @@
-# Hallo!
-
 Willkommen auf der Workshop-Website. Hier findest du die Materialien für den Methoden-Workshop _How to Build an Artificial Coder - Machine Learning für die Automatisierte Inhaltsanalyse"_. 
 
 ### Hier kannst du das Material herunterladen 
