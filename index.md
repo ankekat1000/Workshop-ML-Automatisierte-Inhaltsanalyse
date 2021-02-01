@@ -1,12 +1,10 @@
-## Willkommen auf der Workshop Website :cupid:
+## Willkommen auf der Workshop Website
 
-Hier findest du alle Materialien für den Workshop _How to Build an Artificial Coder - Machine Learning für die Automatisierte Inhaltsanalyse"_. You can use the [editor on GitHub](https://github.com/ankekat1000/Workshop-ML-AutomatisierteInhaltsanalyse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hier findest du die Materialien für den Workshop _How to Build an Artificial Coder - Machine Learning für die Automatisierte Inhaltsanalyse"_. 
 
 ### Download Workshop-Ordner 
 
-Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als .zip-Datei herunterzuladen.
+Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als .zip-Datei von GitHub herunterzuladen. 
 
 ```markdown
 Syntax highlighted code block
