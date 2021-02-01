@@ -30,6 +30,15 @@ conda install nltk
 
 ## Workshop-Agenda
 
+Der Workshop findet am 11.02.2020 vor der [PolKom-Jahrestagung](https://www.polkomm2021.de/) von 10 bis 15 Uhr statt.
+
+- agenda 1
+- agenda 2
+ Lunch
+- agenda 3
+- agenda 4
+
+
 ## Weiterführende Tutorials
 
 ## Noch mehr Methoden-Workshops!
