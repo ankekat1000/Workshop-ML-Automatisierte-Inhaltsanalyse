@@ -5,16 +5,26 @@ Hier findest du die Materialien für den Workshop _How to Build an Artificial Co
 ![](workshop_artificial-Coder_web-Header-1024x504.png)
 ### Download Workshop-Ordner 
 
-Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als .zip-Datei von GitHub herunterzuladen. Im Workshop-Ordner findest du alle Skripte, Folien und Datensätze, die wir im Workshop benutzen. Oder du kannst dir auf [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) das Material ansehen. 
+Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als .zip-Datei von GitHub herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen. Oder du kannst dir auf [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) das Material ansehen. 
 
 ### Getting Started - Material zur Vorbereitung
 
-Du brauchst für den Workshop keine Vorkenntnisse. Aber du benötigst Python und alles drum und dran. 
+Du brauchst für den Workshop keine Vorkenntnisse. Aber du benötigst Python mit allem drum und dran:
 
-1. Klicke auf den Download-Button [hier](https://www.anaconda.com/products/individual) und lade dir die Software Anaconda (für Windows ) herunter. Anaconda benutzen wir, damit wir unter Windows oder MacOX einfacher programmieren können.
-2. Follow the installation instruction in [this video tutorial](https://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial") until min 05:07.
+1. **Python mit Anaconda installieren**: Gehe auf die [Homepage von Anaconda](https://www.anaconda.com/products/individual) und lade dir die Software für dein Betriebssystem herunter. Anaconda benutzen wir, damit wir unter Windows und MacOX einfacher programmieren können. Mit Anaconda erhälts du Python, viele vorinstallierte Python-Packages und Programmiersoftware, wie z.B. Jupyter Notebook. In diesem [Tutorial](https://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial") kannst du dir ansehen, wie du Anaconda unter Windows installierst (bis min 05:07).
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/5mDYijMfSzs/0.jpg)](http://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial")
+
+2. **Python-Packages installieren**: Folge dem Tutorial weiter (min 05:08 - 06:41) um zu lernen, wie man Python-Packages installiert. (Dies ist nur eine von mehreren Möglichkeiten.) Versuche die folgenden Packages zu installieren:
+
+```
+conda install pandas
+conda install re
+conda install numpy
+conda install scikit-learn
+conda install nltk
+
+```
 
 
 ### Workshop-Agenda
