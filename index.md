@@ -25,9 +25,9 @@ conda install scikit-learn
 conda install nltk
 ```
 
-3. **Lerne die Programmierumgebung kennen**: Die Software **Jupyter Notebook** macht mit ihrem intuitiven Design Nicht-Programmiererinnen und -Programmierern den Einstieg leicht! Jupyter Notebook ist mit Anaconda bereits auf deinem Computer gelandet. Mache dich mit Hilfe dieses [Tutorials](https://www.youtube.com/watch?v=HW29067qVWk "Watch this cute tutorial") schon mal mit der Juypter-Notebook-Programmierumgebung vertraut.
+3. **Lerne die Programmierumgebung kennen**: Die Software **Jupyter Notebook** macht mit ihrem intuitiven Design Nicht-Programmiererinnen und -Programmierern den Einstieg leicht! Jupyter Notebook ist mit Anaconda bereits auf deinem Computer gelandet. Mache dich mit Hilfe dieses [Tutorials](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial") schon mal mit der Juypter-Notebook-Programmierumgebung vertraut.
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/HW29067qVWk/0.jpg)](https://www.youtube.com/watch?v=HW29067qVWk "Watch this cute tutorial")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/NIGcXjhXNug/0.jpg)](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial")
 
 
 
