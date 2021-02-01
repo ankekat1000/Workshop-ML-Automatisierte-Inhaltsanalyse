@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Willkommen auf der Workshop Website :cupid:
 
-You can use the [editor on GitHub](https://github.com/ankekat1000/Workshop-ML-AutomatisierteInhaltsanalyse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hier findest du alle Materialien für den Workshop "How to Build an Artificial Coder - Machine Learning für die Automatisierte Inhaltsanalyse". You can use the [editor on GitHub](https://github.com/ankekat1000/Workshop-ML-AutomatisierteInhaltsanalyse/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Download Workshop-Ordner 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als .zip-Datei herunterzuladen.
 
 ```markdown
 Syntax highlighted code block
