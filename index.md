@@ -45,4 +45,7 @@ Der Workshop findet am 11.02.2020 vor der [PolKom-Jahrestagung](https://www.polk
 Fragen oder Anmerkungen? Dann schreibe uns einfach eine Mail! 
 
 Dozentin [Anke Stoll](mailto:anke.stoll@hhu.de)
+
 Organisatorisches und Anmeldung [NaPoKo](mailto:sprecher@napoko.de)
+
+
