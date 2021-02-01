@@ -2,7 +2,7 @@ Willkommen auf der Website des Methoden-Workshops _„How to build an artificial
 
 Bei Fragen zum Inhalt schreibt einfach eine Mail an die Daozentin [Anke Stoll](mailto:anke.stoll@hhu.de). 
 
-Für organisatorische Fragen meldet euch beim [NaPoKo](mailto:sprecher@napoko.de)
+Für organisatorische Fragen meldet euch beim [NaPoKo](mailto:sprecher@napoko.de).
 
 Wir wünschen euch viel Spaß :two_hearts:
 
