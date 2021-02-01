@@ -29,7 +29,7 @@ conda install nltk
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NIGcXjhXNug/0.jpg)](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial")
 
-
+- **Packages importierennn**: Navigiere dich nun im Menü von Jupyter Notebook in den Workshop-Ordner und versuche das Notebook ``requirements.ipynb´´ auszuführen. Wenn sich alles Packages ohne Fehlermeldung importieren lassen, bist du gewappnet für den Workshop!
 
 ## Workshop-Agenda
 
