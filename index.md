@@ -1,4 +1,4 @@
-Willkommen auf der Website des NaPoKo Methoden-Workshops _„How to build an artificial Coder? Einführung in die automatisierte Inhaltsanalyse mit Machine Learning“_ des Nachwuchsnetzwerks Politische Kommunikation [NaPoKo](http://napoko.de/). Den Call für den Workshop findet ihr [hier](http://napoko.de/workshop-artificial-coder/). Und nun viel Spaß! :hearts: 
+Willkommen auf der Website des Methoden-Workshops _„How to build an artificial Coder? Einführung in die automatisierte Inhaltsanalyse mit Machine Learning“_ des Nachwuchsnetzwerks Politische Kommunikation [NaPoKo](http://napoko.de/). Den Call für den Workshop findet ihr [hier](http://napoko.de/workshop-artificial-coder/). Und nun viel Spaß! 
 
 ### Hier kannst du das Material herunterladen 
 
