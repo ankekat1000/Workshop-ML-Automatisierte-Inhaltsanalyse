@@ -1,4 +1,4 @@
-Willkommen auf der Website des Methoden-Workshops _„How to build an artificial Coder? Einführung in die automatisierte Inhaltsanalyse mit Machine Learning“_ des Nachwuchsnetzwerks Politische Kommunikation [NaPoKo](http://napoko.de/) :hearts: Den Call für den Workshop findet ihr [hier](http://napoko.de/workshop-artificial-coder/). Und nun viel Spaß! 
+Willkommen auf der Website des Methoden-Workshops _„How to build an artificial Coder? Einführung in die automatisierte Inhaltsanalyse mit Machine Learning“_ des Nachwuchsnetzwerks Politische Kommunikation [NaPoKo](http://napoko.de/) :two_hearts: Den Call für den Workshop findet ihr [hier](http://napoko.de/workshop-artificial-coder/). Und nun viel Spaß! 
 
 ### Hier kannst du das Material herunterladen 
 
@@ -41,6 +41,8 @@ Der Workshop findet am 11.02.2020 vor der [PolKom-Jahrestagung](https://www.polk
 
 ## Weiterführende Tutorials
 
-## Noch mehr Methoden-Workshops!
+## Kontakt, Hilfe und noch mehr Methoden-Workshops!
+Fragen oder Anmerkungen? Dann schreibe uns einfach eine Mail! 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Für Inhaltliches: [Anke](mailto:anke.stoll@hhu.de] 
+Für Organisatorsche Rückfragen und für noch mehr Methoden-Workshops an [NaPoKo](mailto:sprecher@napoko.de)
