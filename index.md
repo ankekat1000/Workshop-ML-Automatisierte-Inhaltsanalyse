@@ -2,7 +2,7 @@
 
 Willkommen auf der Workshop-Website. Hier findest du die Materialien für den Methoden-Workshop _How to Build an Artificial Coder - Machine Learning für die Automatisierte Inhaltsanalyse"_. 
 
-## Hier kannst du das Material herunterladen 
+### Hier kannst du das Material herunterladen 
 
 Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von GitHub herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen. Oder du kannst dir auf [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) das Material ansehen. 
 
