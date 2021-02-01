@@ -44,5 +44,5 @@ Der Workshop findet am 11.02.2020 vor der [PolKom-Jahrestagung](https://www.polk
 ## Kontakt, Hilfe und noch mehr Methoden-Workshops!
 Fragen oder Anmerkungen? Dann schreibe uns einfach eine Mail! 
 
-Für Inhaltliches: [Anke](mailto:anke.stoll@hhu.de] 
-Für Organisatorsche Rückfragen und für noch mehr Methoden-Workshops an [NaPoKo](mailto:sprecher@napoko.de)
+Dozentin [Anke Stoll](mailto:anke.stoll@hhu.de)
+Organisatorisches und Anmeldung [NaPoKo](mailto:sprecher@napoko.de)
