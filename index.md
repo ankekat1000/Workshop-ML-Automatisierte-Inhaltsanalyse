@@ -10,6 +10,16 @@ Wir wünschen euch viel Spaß :two_hearts:
 
 Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von GitHub herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen. Oder du kannst dir auf [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) das Material ansehen. 
 
+## Workshop-Agenda
+
+Der Workshop findet am 11.02.2020 vor der [PolKom-Jahrestagung](https://www.polkomm2021.de/) von 10 bis 15 Uhr statt.
+
+- agenda 1
+- agenda 2
+ Lunch
+- agenda 3
+- agenda 4
+
 ## Vorbereitung auf den Workshop
 
 Du brauchst für den Workshop keine Vorkenntnisse. Aber du benötigst Python mit allem drum und dran:
@@ -34,15 +44,6 @@ conda install nltk
 
 - **Packages importieren**: Navigiere dich nun im Menü von Jupyter Notebook in den Workshop-Ordner und versuche das Notebook `requirements.ipynb` auszuführen. Wenn sich alles Packages ohne Fehlermeldung importieren lassen, bist du gewappnet für den Workshop!
 
-## Workshop-Agenda
-
-Der Workshop findet am 11.02.2020 vor der [PolKom-Jahrestagung](https://www.polkomm2021.de/) von 10 bis 15 Uhr statt.
-
-- agenda 1
-- agenda 2
- Lunch
-- agenda 3
-- agenda 4
 
 
 ## Weiterführende Tutorials
