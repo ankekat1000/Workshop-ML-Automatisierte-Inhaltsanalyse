@@ -14,7 +14,7 @@ Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsa
 
 Der Workshop findet am Donnerstag, 11.02.2020, vor der [PolKomm-Jahrestagung](https://www.polkomm2021.de/) von 10 bis 15 Uhr statt. 
 
-- Künstliche Intelligenz, Machine Learning, Deep Learning - Buzzwords klären!
+- #KünstlicheIntelligenz, Machine Learning, Deep Learning - Buzzwords klären!
 - Wie kann ML für die automatisierte Inhaltsanalyse genutzt werden?
 
  Lunch
