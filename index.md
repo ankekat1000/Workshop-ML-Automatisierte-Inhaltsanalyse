@@ -10,13 +10,15 @@ Wir wünschen euch viel Spaß :two_hearts:
 
 Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von GitHub herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen. Oder du kannst dir auf [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) das Material ansehen. 
 
-## Workshop-Agenda
+### Workshop-Agenda
 
-Der Workshop findet am 11.02.2020 vor der [PolKom-Jahrestagung](https://www.polkomm2021.de/) von 10 bis 15 Uhr statt.
+Der Workshop findet am Donnerstag, 11.02.2020, vor der [PolKomm-Jahrestagung](https://www.polkomm2021.de/) von 10 bis 15 Uhr statt. 
 
-- agenda 1
-- agenda 2
+- Künstliche Intelligenz, Machine Learning, Deep Learning - Buzzwords klären!
+- Wie kann ML für die automatisierte Inhaltsanalyse genutzt werden?
+
  Lunch
+ 
 - agenda 3
 - agenda 4
 
