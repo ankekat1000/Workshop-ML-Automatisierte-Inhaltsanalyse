@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 show_downloads: false
-title: How to Build an Artificial Coder
+title: Machine Learning und Automatisierte Inhaltsanalyse
 
 gems:
   - jemoji
