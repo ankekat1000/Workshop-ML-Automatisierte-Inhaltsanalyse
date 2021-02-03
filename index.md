@@ -16,16 +16,16 @@ Der Workshop findet am Donnerstag, 11.02.2020, von 10 bis 15 Uh, vor der [PolKom
 
 10:00 - 12:00 Uhr
 
-- #KünstlicheIntelligenz, Machine Learning, Deep Learning - Buzzwords klären!
+- #KünstlicheIntelligenz, #MachineLearning, #DeepLearning - Buzzwords klären!
 - Wie kann ML für die automatisierte Inhaltsanalyse genutzt werden?
 - How to start? Data & Software Set up
 
- Lunch Break 12:00 - 13:00 Uhr
+12:00 - 13:00 Uhr Lunch Break 
  
- 13:00 - 15:00 Uhr
+13:00 - 15:00 Uhr
  
-- Einen Classifier bauen - Step by Step
-- Modelle evaluieren und bewerten
+- Einen Hate-Speech-Classifier bauen - Step by Step
+- ML-Modelle evaluieren und bewerten
 
 ## Vorbereitung auf den Workshop
 
@@ -53,7 +53,7 @@ conda install nltk
 
 ## Can't wait!
 
-Wenn du schon mal anfangen möchtest, dich mit **Python** zu beschäftigen, empfehle ich dir diese [Video-Series](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers"). Es handelt sich um eine Einführung für die wunderbare Bibliothek (Package) `Pandas`, mit der wir unsere Daten in Python einlesen und bearbeiten können und die aus der Welt von ML und Data Science nicht wegzudenken ist! (Ihr könnt mit dem 2. Video beginnen). 
+Wenn du schon mal anfangen möchtest, dich mit **Python** zu beschäftigen, empfehlen wir dir diese [Video-Series](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers"). Es handelt sich um eine Einführung für die wunderbare Bibliothek (Package) `Pandas`, mit der wir unsere Daten in Python einlesen und bearbeiten können und die aus der Welt von ML und Data Science nicht mehr wegzudenken ist! (Ihr könnt mit dem 2. Video beginnen). 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/5_QXMwezPJE/0.jpg)](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers")
 
