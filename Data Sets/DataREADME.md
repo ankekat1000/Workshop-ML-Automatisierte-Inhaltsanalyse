@@ -1,6 +1,6 @@
 # Data Set
 
-Wir benutzen das Open Sorce [Hate Speech Data Set](https://github.com/ankekat1000/IWG_hatespeech_public) von [Ross et al., 2016](https://arxiv.org/abs/1701.08118)
+Wir benutzen das Open Sorce [Hate Speech Data Set](https://github.com/ankekat1000/IWG_hatespeech_public) von [Ross et al., 2017](https://arxiv.org/abs/1701.08118)
 Das Data Set wurde im Zuge der [Germeval Task 2, 2019 — Shared Task on the Identification of Offensive Language](https://projects.fzai.h-da.de/iggsa/) erhoben und zur Verfügung gestellt.
 
 
