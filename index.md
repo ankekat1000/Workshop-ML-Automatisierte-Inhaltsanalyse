@@ -1,8 +1,8 @@
-Hallo und willkommen zum Methoden-Workshops _„How to build an artificial Coder? Einführung in die automatisierte Inhaltsanalyse mit Machine Learning“_ des Nachwuchsnetzwerks Politische Kommunikation [NaPoKo](http://napoko.de/)! Den Call für den Workshop findet ihr [hier](http://napoko.de/workshop-artificial-coder/). 
+Hallo und willkommen zum Methoden-Workshop _„How to build an artificial Coder? Einführung in die automatisierte Inhaltsanalyse mit Machine Learning“_ des Nachwuchsnetzwerks Politische Kommunikation [NapoKo](http://napoko.de/)! Den Call für den Workshop findet ihr [hier](http://napoko.de/workshop-artificial-coder/). 
 
 Bei Fragen zum Inhalt schreibt einfach eine Mail an die Dozentin [Anke Stoll](mailto:anke.stoll@hhu.de). 
 
-Für organisatorische Fragen meldet euch gerne beim [NaPoKo](mailto:sprecher@napoko.de).
+Für organisatorische Fragen meldet euch gerne bei [Katharina Esau](mailto:katharina.esau@hhu.de) (Sprecherin NapoKo).
 
 Wir wünschen euch viel Spaß :two_hearts:
 
@@ -12,7 +12,7 @@ Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsa
 
 ### Workshop-Agenda
 
-Der Workshop findet am Donnerstag, den 11.02.2020, von 10 bis 15 Uhr, vor der [PolKomm-Jahrestagung](https://www.polkomm2021.de/) am 12.02.2020 statt. Es wird sowohl Input- als auch praktische Programmier-Sessions geben. Hier schon mal die grobe Agenda:
+Der Workshop findet am Donnerstag, den 11.02.2020, von 10 bis 15 Uhr, vor der [PolKomm-Jahrestagung](https://www.polkomm2021.de/) am 12.02.2020 statt. Es wird sowohl Input- als auch praktische Programmier-Sessions geben. Hier schon mal die vorläufige Agenda:
 
 10:00 - 12:00 Uhr
 
@@ -29,9 +29,9 @@ Der Workshop findet am Donnerstag, den 11.02.2020, von 10 bis 15 Uhr, vor der [P
 
 ## Vorbereitung auf den Workshop
 
-Du brauchst für den Workshop keine Vorkenntnisse. Aber du benötigst Python mit allem drum und dran:
+Für den Workshop sind keine Programmiervorkenntnisse nötig. Für den praktischen Teil benötigst du lediglich Python auf deinem Computer sowie die nötigen Packages fürs Machine Learning:
 
-- **Python mit Anaconda installieren**: Gehe auf die [Homepage von Anaconda](https://www.anaconda.com/products/individual) und lade dir die Software für dein Betriebssystem herunter. Anaconda benutzen wir, damit wir unter Windows- und Mac-Betriebssysthemen einfacher programmieren können. Mit Anaconda erhälts du Python, viele vorinstallierte Python-Packages und Programmiersoftware, wie z.B. Jupyter Notebook. In diesem [Tutorial](https://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial") kannst du dir ansehen, wie du Anaconda unter Windows 10 installierst (bis min 05:07).
+- **Python mit Anaconda installieren**: Gehe auf die [Homepage von Anaconda](https://www.anaconda.com/products/individual) und und lade dir unter _Individual Edition_ die Software (Your data science toolkit -> Download) für dein Betriebssystem. Anaconda benutzen wir, damit wir unter Windows- und Mac einfacher programmieren können. Mit Anaconda erhälts du Python, viele vorinstallierte Python-Packages und Programmiersoftware, wie z.B. Jupyter Notebook. In diesem [Tutorial](https://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial") kannst du dir ansehen, wie du Anaconda unter Windows 10 installierst (bis min 05:07).
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/5mDYijMfSzs/0.jpg)](http://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial")
 
