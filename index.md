@@ -8,11 +8,11 @@ Wir wünschen euch viel Spaß :two_hearts:
 
 ### Hier kannst du das Material herunterladen 
 
-Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von GitHub herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen. Oder du kannst dir auf [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) das Material ansehen. 
+Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen.
 
 ### Workshop-Agenda
 
-Der Workshop findet am Donnerstag, 11.02.2020, von 10 bis 15 Uh, vor der [PolKomm-Jahrestagung](https://www.polkomm2021.de/) statt. Es wird sowohl einen Input als auch praktische Programmier-Sessions geBen.
+Der Workshop findet am Donnerstag, 11.02.2020, von 10 bis 15 Uh, vor der [PolKomm-Jahrestagung](https://www.polkomm2021.de/) statt. Es wird sowohl Input als auch praktische Programmier-Sessions geben.
 
 10:00 - 12:00 Uhr
 
@@ -51,27 +51,4 @@ conda install nltk
 
 - **Packages importieren**: Navigiere dich nun im Menü von Jupyter Notebook in den Workshop-Ordner und versuche das Notebook `requirements.ipynb` auszuführen. Wenn sich alles Packages ohne Fehlermeldung importieren lassen, bist du gewappnet für den Workshop!
 
-
-### Weiterführende Tutorials
-
-In unserem Workshop können wir leider nur eine Einführung in die unendlichen Weiten von Machine Learning und Automatisierter Inhaltsanalyse geben. Für den Start in die Welt von YouTube-Pythonistas und autodidaktischem Tutorial-Hopping können wir euch folgende Channel, Playlists und E-Books empfehlen, die uns auf dem Weg zu Programmier-Freaks treu begleitet haben und als besonsers hilfreich in Erinnerung geblieben sind.
-
-**Von Excel-Tabellen nach Python und wieder zurück**
-
-
-**Von Excel-Tabellen nach Python und wieder zurück**
-
-
-**ML and Beyond - Einführungs-Tutorials zu Deepl Learning**
-
-**All Time Favorites - Lieblings-ML- und Data-Science-Channels und Blogs**
-
-
-### Kontakt, Hilfe und noch mehr Methoden-Workshops!
-Fragen oder Anmerkungen? Dann schreibe uns einfach eine Mail! 
-
-Dozentin [Anke Stoll](mailto:anke.stoll@hhu.de)
-
-Organisatorisches und Anmeldung [NaPoKo](mailto:sprecher@napoko.de)
-
-
+Bis bald!
