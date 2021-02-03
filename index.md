@@ -1,4 +1,4 @@
-Willkommen auf der Website des Methoden-Workshops _„How to build an artificial Coder? Einführung in die automatisierte Inhaltsanalyse mit Machine Learning“_ des Nachwuchsnetzwerks Politische Kommunikation [NaPoKo](http://napoko.de/)! Den Call für den Workshop findet ihr [hier](http://napoko.de/workshop-artificial-coder/). 
+Hallo und willkommen auf der Website des Methoden-Workshops _„How to build an artificial Coder? Einführung in die automatisierte Inhaltsanalyse mit Machine Learning“_ des Nachwuchsnetzwerks Politische Kommunikation [NaPoKo](http://napoko.de/)! Den Call für den Workshop findet ihr [hier](http://napoko.de/workshop-artificial-coder/). 
 
 Bei Fragen zum Inhalt schreibt einfach eine Mail an die Dozentin [Anke Stoll](mailto:anke.stoll@hhu.de). 
 
@@ -55,7 +55,7 @@ conda install nltk
 
 Wenn du schon mal anfangen möchtest, dich mit **Python** zu beschäftigen, empfehle ich dir diese [Video-Series](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers"). Es handelt sich um eine Einführung für die wunderbare Bibliothek (Package) `Pandas`, mit der wir unsere Daten in Python einlesen und bearbeiten können und die aus der Welt von ML und Data Science nicht wegzudenken ist! (Ihr könnt mit dem 2. Video beginnen). 
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/zxqjeyKP2Tk/0.jpg)](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/5_QXMwezPJE&t=5s/0.jpg)](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers")
 
 
 Bis bald!
