@@ -8,15 +8,15 @@ Wir wünschen euch viel Spaß :two_hearts:
 
 ### Hier kannst du das Material herunterladen 
 
-Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen.
+Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen. Aktuell ist ein Datensatz zum Ausprobieren und die Datei `requirements.ipynb` (s. untern) mit den benötigten Packages hochgeladen. Folien und die Skripte, die wir im Workshop erstellen, werden nach dem Workshop ebenfalls hier verfügbar sein. 
 
 ### Workshop-Agenda
 
-Der Workshop findet am Donnerstag, 11.02.2020, von 10 bis 15 Uhr, vor der [PolKomm-Jahrestagung](https://www.polkomm2021.de/) statt. Es wird sowohl Input- als auch praktische Programmier-Sessions geben. Hier schon mal der grobe Zeitplan:
+Der Workshop findet am Donnerstag, den 11.02.2020, von 10 bis 15 Uhr, vor der [PolKomm-Jahrestagung](https://www.polkomm2021.de/) am 12.02.2020 statt. Es wird sowohl Input- als auch praktische Programmier-Sessions geben. Hier schon mal die grobe Agenda:
 
 10:00 - 12:00 Uhr
 
-- #KünstlicheIntelligenz, #MachineLearning, #DeepLearning - Buzzwords klären!
+- #KI, #MachineLearning, #DeepLearning - Buzzwords klären!
 - Wie kann ML für die automatisierte Inhaltsanalyse genutzt werden?
 - How to start? Data & Software Set-up
 
@@ -31,7 +31,7 @@ Der Workshop findet am Donnerstag, 11.02.2020, von 10 bis 15 Uhr, vor der [PolKo
 
 Du brauchst für den Workshop keine Vorkenntnisse. Aber du benötigst Python mit allem drum und dran:
 
-- **Python mit Anaconda installieren**: Gehe auf die [Homepage von Anaconda](https://www.anaconda.com/products/individual) und lade dir die Software für dein Betriebssystem herunter. Anaconda benutzen wir, damit wir unter Windows und Mac-Betriebssysthemen einfacher programmieren können. Mit Anaconda erhälts du Python, viele vorinstallierte Python-Packages und Programmiersoftware, wie z.B. Jupyter Notebook. In diesem [Tutorial](https://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial") kannst du dir ansehen, wie du Anaconda unter Windows 10 installierst (bis min 05:07).
+- **Python mit Anaconda installieren**: Gehe auf die [Homepage von Anaconda](https://www.anaconda.com/products/individual) und lade dir die Software für dein Betriebssystem herunter. Anaconda benutzen wir, damit wir unter Windows- und Mac-Betriebssysthemen einfacher programmieren können. Mit Anaconda erhälts du Python, viele vorinstallierte Python-Packages und Programmiersoftware, wie z.B. Jupyter Notebook. In diesem [Tutorial](https://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial") kannst du dir ansehen, wie du Anaconda unter Windows 10 installierst (bis min 05:07).
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/5mDYijMfSzs/0.jpg)](http://www.youtube.com/watch?v=5mDYijMfSzs "Watch this first tutorial")
 
@@ -45,7 +45,7 @@ conda install scikit-learn
 conda install nltk
 ```
 
-- **Lerne die Programmierumgebung kennen**: Die Software [**Jupyter Notebook**](https://jupyter.org/) macht mit ihrem intuitiven Design Nicht-Programmiererinnen und -Programmierern den Einstieg leicht! Jupyter Notebook ist mit Anaconda bereits auf deinem Computer gelandet. Lerne mit Hilfe dieses kurzen [Tutorials](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial") die Jupyter-Notebook-Programmierumgebung kennen.
+- **Lerne die Programmierumgebung kennen**: Die Software [**Jupyter Notebook**](https://jupyter.org/) macht mit ihrem intuitiven Design Nicht-Programmierer:innen den Einstieg leicht! Jupyter Notebook ist mit Anaconda bereits auf deinem Computer gelandet. Lerne mit Hilfe dieses kurzen [Tutorials](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial") die Jupyter-Notebook-Programmierumgebung kennen.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/NIGcXjhXNug/0.jpg)](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial")
 
@@ -53,7 +53,7 @@ conda install nltk
 
 ### Can't wait!
 
-Wenn du schon mal anfangen möchtest, dich mit **Python** zu beschäftigen, empfehlen wir dir diese [Video-Series](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers"). Es handelt sich um eine Einführung in die wunderbare Bibliothek `Pandas`, mit der Daten in Python einlesen und bearbeiten werden können und die aus der Welt von ML und Data Science nicht mehr wegzudenken ist! (Du kannst mit dem 2. Video beginnen). Im Workshop-Ordner `Data Sets` findest du schon eine .csv-Datei mit Tweets, die du als Übung einlesen und untersuchen kannst.
+Wenn du schon mal anfangen möchtest, dich mit **Python** zu beschäftigen, empfehlen wir dir diese [Video-Series](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers"). Es handelt sich um eine Einführung in die wunderbare Bibliothek `Pandas`, mit der Daten in Python eingelesen und bearbeiten werden können und die aus der Welt des ML und der Data Sciences nicht mehr wegzudenken ist! (Du kannst mit dem 2. Video beginnen). Im Workshop-Ordner `Data Sets` findest du schon eine .csv-Datei mit Tweets, die du als Übung einlesen und untersuchen kannst.
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/5_QXMwezPJE/0.jpg)](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers")
 
