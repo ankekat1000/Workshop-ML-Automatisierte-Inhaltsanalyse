@@ -51,4 +51,12 @@ conda install nltk
 
 - **Packages importieren**: Navigiere dich nun im Menü von Jupyter Notebook in den Workshop-Ordner und versuche das Notebook `requirements.ipynb` auszuführen. Wenn sich alles Packages ohne Fehlermeldung importieren lassen, bist du gewappnet für den Workshop!
 
+## Can't wait!
+
+Wenn du schon mal anfangen möchtest, dich mit **Python** zu beschäftigen, empfehle ich dir diese [Video-Series](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2). Es handelt sich um eine Einführung für die wunderbare Bibliothek (Package) `Pandas`, mit der wir unsere Daten in Python einlesen und bearbeiten können und die aus der Welt von ML und Data Science nicht wegzudenken ist! (Ihr könnt mit dem 2. Video beginnen). 
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/NIGcXjhXNug/0.jpg)](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial")
+
+
+
 Bis bald!
