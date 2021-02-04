@@ -39,10 +39,8 @@ Für den Workshop sind keine Programmiervorkenntnisse nötig. Für den praktisch
 
 ```
 conda install pandas
-conda install re
-conda install numpy
+conda install regex
 conda install scikit-learn
-conda install nltk
 ```
 
 - **Lerne die Programmierumgebung kennen**: Die Software [**Jupyter Notebook**](https://jupyter.org/) macht mit ihrem intuitiven Design Nicht-Programmierer:innen den Einstieg leicht! Jupyter Notebook ist mit Anaconda bereits auf deinem Computer gelandet. Lerne mit Hilfe dieses kurzen [Tutorials](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial") die Jupyter-Notebook-Programmierumgebung kennen.
