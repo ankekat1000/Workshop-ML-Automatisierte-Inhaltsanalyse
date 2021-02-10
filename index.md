@@ -8,7 +8,7 @@ Wir wünschen euch viel Spaß :two_hearts:
 
 ### Hier kannst du das Material herunterladen 
 
-Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen. Aktuell ist ein Datensatz zum Ausprobieren und die Datei `requirements.ipynb` (s. untern) mit den benötigten Packages hochgeladen. Folien und die Skripte, die wir im Workshop erstellen, werden nach dem Workshop ebenfalls hier verfügbar sein. 
+Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzen. Aktuell ist ein Datensatz zum Ausprobieren und die Datei `requirements.ipynb` (s. unten) mit den benötigten Packages hochgeladen. Folien und die Skripte, die wir im Workshop erstellen, werden nach dem Workshop ebenfalls hier verfügbar sein. 
 
 ### Workshop-Agenda
 
