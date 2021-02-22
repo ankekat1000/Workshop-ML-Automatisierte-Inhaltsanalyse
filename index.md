@@ -1,6 +1,7 @@
 Hallo und willkommen zum Methoden-Workshop _„How to build an artificial Coder? Einführung in die automatisierte Inhaltsanalyse mit Machine Learning“_ des Nachwuchsnetzwerks politische Kommunikation [NapoKo](http://napoko.de/)! Den Call für den Workshop findet ihr [hier](http://napoko.de/workshop-artificial-coder/). Schön, dass ihr dabei gewesen seid! 
 
-Auf dieser Seite findet ihr das Workshop-Material sowie weiterführnde Tutorials und Literatur zum Thema Machine Learning und Automatisierte Inhaltsanalyse! Ihr könnt das Workshop-Material gerne unter der CC-Licence weiterverwenden! Bei Fragen zum Inhalt schreibt einfach eine Mail an die Dozentin [Anke Stoll](mailto:anke.stoll@hhu.de). Weitere Workshop-Angebote zu aktuellen Methoden für die (politische) Kommunikationsiwssneschaft findet ihr auf der [NapoKo-Webiste](http://napoko.de/).
+Auf dieser Seite findet ihr das Workshop-Material sowie weiterführnde Tutorials und Literatur zum Thema Machine Learning und Automatisierte Inhaltsanalyse! Ihr könnt das Workshop-Material gerne unter der [CC-License](/LICENSE)
+) weiterverwenden! Bei Fragen zum Inhalt schreibt einfach eine Mail an die Dozentin [Anke Stoll](mailto:anke.stoll@hhu.de). Weitere Workshop-Angebote zu aktuellen Methoden für die (politische) Kommunikationsiwssneschaft findet ihr auf der [NapoKo-Webiste](http://napoko.de/).
 
 Viel Spaß :two_hearts:
 
