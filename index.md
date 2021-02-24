@@ -63,6 +63,9 @@ conda install scikit-learn
 
 [Video-Series: Data with Pandas for Beginners](https://www.youtube.com/watch?v=5_QXMwezPJE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=2 "Watch some videos of one of my favorite ML YouTubers")
 
+[Kurzer und leicht verständlicher Blog Post](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673)
+
+[Ein etwas ausführlicherer und leicht verständlicher Blog Post](https://towardsdatascience.com/a-complete-pandas-guide-2dc53c77a002)
 
 #### Machine Learning und Document Classification allg.
 
@@ -72,7 +75,6 @@ Video: Spam Detection mit scikit-learn [Part 1](https://www.youtube.com/watch?v=
 
 [Sehr langes Vide: ML mit scikit-learn am Bsp. User Reviews](https://www.youtube.com/watch?v=M9Itm95JzL0)
 
-[Kurzer und leicht verständlicher Blog Post](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673)
 
 **Literatur**
 
