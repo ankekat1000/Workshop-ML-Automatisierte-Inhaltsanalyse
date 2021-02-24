@@ -91,7 +91,7 @@ Raschka, S., & Mirjalili, V. (2017). *Python machine learning.* Packt Publishin
 
 #### Deep Learning
 
-Basic Einführung in DL mit der Bibliothek Keras [Part 1] (https://www.youtube.com/watch?v=hBPT6_JoUvU) und [Part 2](https://www.youtube.com/watch?v=eMtbdZC6p80)
+Basic Einführung in DL mit der Bibliothek Keras [Part 1](https://www.youtube.com/watch?v=hBPT6_JoUvU) und [Part 2](https://www.youtube.com/watch?v=eMtbdZC6p80)
 
 
 
