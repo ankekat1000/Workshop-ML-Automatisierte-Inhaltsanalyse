@@ -6,7 +6,7 @@ Viel Spaß :two_hearts:
 
 ### Hier kannst du das Material herunterladen 
 
-Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzt haben. Im `Readme` des Workshop-Ordners findest du noch eine detaillierte Beschreibung zu den einzelnen Inhalten.
+Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip), um den Workshop-Ordner als **.zip-Datei** von [GitHub](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse) herunterzuladen. Im Workshop-Ordner findest du alle **Skripte, Folien und Datensätze**, die wir im Workshop benutzt haben. Im `README` des Workshop-Ordners findest du noch eine detaillierte Beschreibung zu den einzelnen Inhalten.
 
 ### Workshop-Agenda
 
@@ -20,7 +20,7 @@ Block 1 (2h mit Pausen)
 
 1h Pause Lunch Break 
  
-Block 2 (2h mit Pause)
+Block 2 (2h mit Pausen)
  
 - Einen Hate-Speech-Classifier bauen - Step by Step
 - ML-Modelle evaluieren und bewerten
