@@ -75,6 +75,8 @@ Video: Spam Detection mit scikit-learn [Part 1](https://www.youtube.com/watch?v=
 
 [Sehr langes Vide: ML mit scikit-learn am Bsp. User Reviews](https://www.youtube.com/watch?v=M9Itm95JzL0)
 
+[Tipp: ML noch mal als Kurs im Schnelldurchlauf](https://www.youtube.com/watch?v=vTaxdJ6VYWE) 
+
 
 **Literatur**
 
