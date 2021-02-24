@@ -63,6 +63,16 @@ conda install scikit-learn
 
 
 
+**Deep Learning**
+
+https://www.youtube.com/playlist?app=desktop&list=PLZbbT5o_s2xrL4F90oKfloWM7ExXT_U_b
+
+https://www.youtube.com/playlist?app=desktop&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN
+
+https://www.youtube.com/watch?v=hBPT6_JoUvU und https://www.youtube.com/watch?v=eMtbdZC6p80
+
+
+
 
 
 
