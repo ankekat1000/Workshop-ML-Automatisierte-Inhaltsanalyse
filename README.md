@@ -17,6 +17,10 @@ Im Workshop-Ordner findet ihr folgendes Material:
 
 **Data Sets**
 
+Wir benutzen das Open Source Hate Speech Data Set von Ross et al., (2017) und das Offensive Language Data Set, das im Rahmen der Germeval Task 2, 2019 — Shared Task on the Identification of Offensive Language erstellt und zur Verfügung gestellt wurde (Struß et al., 2019).
+
+Quellen:
+
 
 
 
