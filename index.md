@@ -12,7 +12,7 @@ Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsa
 
 ### Workshop-Agenda
 
-Der Workshop ist auf ca. 2x 2h (+ 1h optionale Übungssession) angelegt.Die Präsentation und praktische Umsetzung ergänzen sich und wechseln sich ab.
+Der Workshop ist auf ca. 2x 2h (+ 1h optionale Übungssession) angelegt. Präsentation und praktische Umsetzung ergänzen sich und wechseln sich ab.
 
 Block 1 (2h mit Pausen)
 
