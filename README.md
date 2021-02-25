@@ -13,11 +13,11 @@ Im Workshop-Ordner findet ihr folgendes Material:
 
 - `Notenook.1` Dieses Notebook ist kursbegleitend und enthält alle im Kurs besprochenden Inhalte. Data Set: 
 - `Notebook2` Dieses Notebook ist im Rahmen der Übungssession gemeinsam mit den Teilnehmenden programmiert worden und enthält ausschließlich die essenziellen Programmierschritte, um einen Classifier zu erstellen. Data Set: _Sentiment.csv_
-- [`Notebook2`](./ML-Workshop_Notebook_basic.ipynb) Dieses Notebook enthält über den Kursinhalt hinaus noch extra Code, der in der Forschungspraxis nützlich sein kann. Data Set:
+- [`Extra_Notebook_Advanced.ipynb`](./Extra_Notebook_Advanced.ipynb) Dieses Notebook enthält über den Kursinhalt hinaus noch extra Code, der in der Forschungspraxis nützlich sein kann. Data Set:
 
 **Data Sets**
 
-Wir benutzen das Open Source Hate Speech Data Set von Ross et al., (2017) und das Offensive Language Data Set, das im Rahmen der Germeval Task 2, 2019 — Shared Task on the Identification of Offensive Language erstellt und zur Verfügung gestellt wurde (Struß et al., 2019).
+Wir benutzen das Open Source Hate Speech Data Set von Ross et al., (2017) und das Sentiment Language Data Set, das im Rahmen der Germeval Task 2, 2019 — Shared Task on the Identification of Offensive Language erstellt und zur Verfügung gestellt wurde (Struß et al., 2019).
 
 Quellen:
 
