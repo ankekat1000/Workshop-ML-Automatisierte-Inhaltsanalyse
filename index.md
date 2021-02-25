@@ -12,7 +12,7 @@ Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsa
 
 ### Workshop-Agenda
 
-Der Workshop ist auf ca. 2x 2h (+ 1h optionale Übungssession) angelegt.
+Der Workshop ist auf ca. 2x 2h (+ 1h optionale Übungssession) angelegt.Die Präsentation und praktische Umsetzung ergänzen sich und wechseln sich ab.
 
 Block 1 (2h mit Pausen)
 
@@ -43,6 +43,13 @@ Für den Workshop sind keine Programmiervorkenntnisse nötig. Fürs Programmiere
 ```
 conda install pandas
 conda install scikit-learn
+```
+
+Für das `Extra_Notebook_Advanced.ipynb` braucht ihr diese Packages. Dieses Notebook geht jedoch über die Workshop-Agenda hinaus und ist optional.
+
+```
+conda install matplotlib
+conda install seaborn
 ```
 
 - **Lerne die Programmierumgebung kennen**: Die Software [**Jupyter Notebook**](https://jupyter.org/) macht mit ihrem intuitiven Design Nicht-Programmierer:innen den Einstieg leicht! Jupyter Notebook ist mit Anaconda bereits auf deinem Computer gelandet. Lerne mit Hilfe dieses kurzen [Tutorials](https://www.youtube.com/watch?v=NIGcXjhXNug "Watch this cute tutorial") die Jupyter-Notebook-Programmierumgebung kennen.
