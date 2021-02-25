@@ -72,7 +72,7 @@ conda install seaborn
 
 [Kurzer und leicht verständlicher Blog Post](https://towardsdatascience.com/a-quick-introduction-to-the-pandas-python-library-f1b678f34673)
 
-[Ein etwas ausführlicherer und leicht verständlicher Blog Post](https://towardsdatascience.com/a-complete-pandas-guide-2dc53c77a002)
+[Etwas ausführlicherer und leicht verständlicher Blog Post](https://towardsdatascience.com/a-complete-pandas-guide-2dc53c77a002)
 
 #### Machine Learning und Document Classification allg.
 
@@ -80,12 +80,17 @@ conda install seaborn
 
 Video: Spam Detection mit scikit-learn [Part 1](https://www.youtube.com/watch?v=RZYjsw6P4nI&t=23s) und [Part 2](https://www.youtube.com/watch?v=bPYJi1E9xeM&t=354s)
 
-[Sehr langes Vide: ML mit scikit-learn am Bsp. User Reviews](https://www.youtube.com/watch?v=M9Itm95JzL0)
+[Sehr langes Video: ML mit scikit-learn am Bsp. User Reviews](https://www.youtube.com/watch?v=M9Itm95JzL0)
 
 [Tipp: ML noch mal als Kurs im Schnelldurchlauf](https://www.youtube.com/watch?v=vTaxdJ6VYWE) 
 
 
-**Literatur**
+#### Deep Learning
+
+Basic Einführung in DL mit der Bibliothek Keras [Part 1](https://www.youtube.com/watch?v=hBPT6_JoUvU) und [Part 2](https://www.youtube.com/watch?v=eMtbdZC6p80)
+
+
+**Lehrbücher**
 
 Géron, A. (2019). *Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow: Concepts, tools, and techniques to build intelligent systems.* O'Reilly Media.
 (Kapitel 1, S. 23-32 & Kapitel 4)
@@ -98,10 +103,4 @@ Raschka, S., & Mirjalili, V. (2017). *Python machine learning.* Packt Publishin
 (Kapitel 3, 4, 6 & 8)
 
 
-#### Deep Learning
-
-Basic Einführung in DL mit der Bibliothek Keras [Part 1](https://www.youtube.com/watch?v=hBPT6_JoUvU) und [Part 2](https://www.youtube.com/watch?v=eMtbdZC6p80)
-
-
-
-Viel Erfolg und bis bald!
+Viel Spaß!
