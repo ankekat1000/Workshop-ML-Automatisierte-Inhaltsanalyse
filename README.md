@@ -26,7 +26,7 @@ Quellen:
 
 **Präsentation**
 
-Für die Workshop-Präsentation wurden Illustrationen aus dem Comic Essay [_We Need to Talk, AI._](https://weneedtotalk.ai/) verwendet. Sowohl das Essay als auch die Präsentation könnt ihr weiterverwenden unter der Creative Common Licence. Infos dazu [hier](https://weneedtotalk.ai/562-2/) und [hier](./LICENCE).
+Für die Workshop-Präsentation wurden Illustrationen aus dem Comic Essay [_We Need to Talk, AI._](https://weneedtotalk.ai/) verwendet. Sowohl das Essay als auch die Präsentation könnt ihr weiterverwenden unter der Creative Commons License. Infos dazu [hier](https://weneedtotalk.ai/562-2/) und [hier](./LICENSE).
 
 
 ich Viel Spaß!
