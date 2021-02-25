@@ -13,7 +13,7 @@ Im Workshop-Ordner findet ihr folgendes Material:
 
 - `Notenook.1` Dieses Notebook ist kursbegleitend und enthält alle im Kurs besprochenden Inhalte. Data Set: 
 - `Notebook2` Dieses Notebook ist im Rahmen der Übungssession gemeinsam mit den Teilnehmenden programmiert worden und enthält ausschließlich die essenziellen Programmierschritte, um einen Classifier zu erstellen. Data Set: _Sentiment.csv_
-- `Notebook2` Dieses Notebook enthält über den Kursinhalt hinaus noch extra Code, der in der Forschungspraxis nützlich sein kann. Data Set:
+- [`Notebook2`](./ML-Workshop_Notebook_basic.ipynb) Dieses Notebook enthält über den Kursinhalt hinaus noch extra Code, der in der Forschungspraxis nützlich sein kann. Data Set:
 
 **Data Sets**
 
