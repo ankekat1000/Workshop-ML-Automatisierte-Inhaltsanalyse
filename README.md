@@ -13,9 +13,9 @@ Im Workshop-Ordner findet ihr folgendes Material:
 
 - `requirements.ipynb` Zum Testen können in diesem Notebook die benötigten Packages importiert werden, die für den Kurse benötigt werden.
 
-- [`ML-Workshop_Notebook_basic.ipynb`](./ML-Workshop_Notebook_basic.ipynb) Dieses Notebook ist kursbegleitend und enthält alle im Kurs besprochenden Inhalte. Data Set: 
-- [`DIY-Notebook_StepByStep_Schnelldurchlauf.ipynb`](./DIY-Notebook_StepByStep_Schnelldurchlauf.ipynb) Dieses Notebook ist im Rahmen der Übungssession gemeinsam mit den Teilnehmenden programmiert worden und enthält ausschließlich die essenziellen Programmierschritte,./DIY-Notebook_StepByStep_Schnelldurchlauf.ipynb um einen Classifier zu erstellen. Data Set: _Sentiment.csv_
-- [`Extra_Notebook_Advanced.ipynb`](./Extra_Notebook_Advanced.ipynb) Dieses Notebook enthält über den Kursinhalt hinaus noch extra Code, der in der Forschungspraxis nützlich sein kann. Data Set:
+- [`ML-Workshop_Notebook_basic.ipynb`](./ML-Workshop_Notebook_basic.ipynb) Dieses Notebook ist kursbegleitend und enthält alle im Kurs besprochenden Inhalte. Data Set: _HateSpeech_Tweets_DataSet.csv_
+- [`DIY-Notebook_StepByStep_Schnelldurchlauf.ipynb`](./DIY-Notebook_StepByStep_Schnelldurchlauf.ipynb) Dieses Notebook ist im Rahmen der Übungssession gemeinsam mit den Teilnehmenden programmiert worden und enthält ausschließlich die essenziellen Programmierschritte,./DIY-Notebook_StepByStep_Schnelldurchlauf.ipynb um einen Classifier zu erstellen. Data Set: _Tweets_by_Sentiment_DataFrame.csv_
+- [`Extra_Notebook_Advanced.ipynb`](./Extra_Notebook_Advanced.ipynb) Dieses Notebook enthält über den Kursinhalt hinaus noch extra Code, der in der Forschungspraxis nützlich sein kann. Data Set: _HateSpeech_Tweets_DataSet.csv_
 
 **Data Sets**
 
