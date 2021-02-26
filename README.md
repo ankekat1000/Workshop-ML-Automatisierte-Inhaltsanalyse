@@ -5,7 +5,7 @@ Im Workshop-Ordner findet ihr folgendes Material:
 
 **Notebooks**
 
-- `requirements.ipynb` Zum Testen können in diesem Notebook die benötigten Packages importiert werden, die für den Kurse benötigt werden.
+- [`requirements.ipynb`](./requirements.ipynb) Zum Testen können in diesem Notebook die benötigten Packages importiert werden, die für den Kurse benötigt werden.
 
 - [`ML-Workshop_Notebook_basic.ipynb`](./ML-Workshop_Notebook_basic.ipynb) Dieses Notebook ist kursbegleitend und enthält alle im Kurs besprochenden Inhalte. Data Set: _HateSpeech_Tweets_DataSet.csv_
 
@@ -18,7 +18,6 @@ Im Workshop-Ordner findet ihr folgendes Material:
 Wir benutzen das Open Source Hate Speech Data Set von Ross et al., (2017) und das Sentiment Language Data Set, das im Rahmen der Germeval Task 2, 2019 — Shared Task on the Identification of Offensive Language erstellt und zur Verfügung gestellt wurde (Struß et al., 2019).
 
 Quellen:
-
 
 
 
