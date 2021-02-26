@@ -1,5 +1,3 @@
-# Workshop on Machine Learning für die Automatisierte Inhaltsanalyse
-
 Hallo :hearts: Willkommen im Workshop-Ordner. Klicke [hier](https://github.com/ankekat1000/Workshop-ML-Automatisierte-Inhaltsanalyse/archive/main.zip) um den Ordner als `.zip` herunterzuladen. Zur Workshop-Website geht es [hier](https://ankekat1000.github.io/Workshop-ML-Automatisierte-Inhaltsanalyse/).
 
 ## Workshop Material
