@@ -15,10 +15,7 @@ Im Workshop-Ordner findet ihr folgendes Material:
 
 **Data Sets**
 
-Wir benutzen das Open Source Hate Speech Data Set von Ross et al., (2017) und das Sentiment Language Data Set, das im Rahmen der Germeval Task 2, 2019 — Shared Task on the Identification of Offensive Language erstellt und zur Verfügung gestellt wurde (Struß et al., 2019).
-
-Quellen:
-
+Wir benutzen die Open Source Data Sets `HateSpeech_Tweets_DataSet.csv` auf Basis von [Ross et al. (2016)](https://github.com/UCSM-DUE/IWG_hatespeech_public) und `Tweets_by_Sentiment_DataFrame.csv` von [Rosenthal et al. (2017)](https://www.aclweb.org/anthology/S17-2088/), das im Rahmen der [_SemEval-2017 Task 4 on Sentiment Analysis in Twitter_](https://alt.qcri.org/semeval2017/task4/index.php?id=data-and-tools) erstellt und zur Verfügung gestellt wurde
 
 **Präsentation**
 
