@@ -23,4 +23,4 @@ Quellen:
 
 **Präsentation**
 
-Für die Workshop-Präsentation wurden Illustrationen aus dem Comic Essay [_We Need to Talk, AI._](https://weneedtotalk.ai/) verwendet. Sowohl das Essay als auch die Präsentation könnt ihr weiterverwenden unter der Creative Commons License. Infos dazu [hier](https://weneedtotalk.ai/562-2/) und [hier](./LICENSE).
+Für die [Workshop-Präsentation](./Presentation_ML_Workshop_NaRezFo_2021_AnkeStoll.pdf) wurden Illustrationen aus dem Comic Essay [_We Need to Talk, AI._](https://weneedtotalk.ai/) verwendet. Sowohl das Essay als auch die Präsentation könnt ihr weiterverwenden unter der Creative Commons License. Infos dazu [hier](https://weneedtotalk.ai/562-2/) und [hier](./LICENSE).
